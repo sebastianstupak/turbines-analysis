@@ -14,9 +14,11 @@ ipykernel==6.23.1  # Added ipykernel
 
 # Plotting
 matplotlib==3.7.1
+seaborn==0.13.2
 
 # Geospatial calculations
 geopy==2.3.0
+geopandas==1.0.1
 
 # Add any other dependencies your project might need# Python 3.8 or higher
 
@@ -38,9 +40,4 @@ matplotlib==3.7.1
 # Geospatial calculations
 geopy==2.3.0
 
-# Scientific computing
-scipy==1.10.1
-
-# Add any other dependencies your project might need
-# scikit-learn==1.2.2
-# scikit-learn==1.2.2
+scikit-learn==1.5.2
